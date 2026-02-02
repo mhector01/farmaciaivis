@@ -10,10 +10,10 @@
 		    
 		   
 			$driver = 'mysql'; //mysql no cambiar
-			$host = 'localhost'; //localhost
-			$dbname = 'farmaciaivis_sistema'; //bdd
-			$username ='farmaciaivis_hector'; //usuario
-			$passwd = 'Rangermiperro1'; //contra
+			$host = 'q00w40ssg40k04s84gkokkkk'; //localhost
+			$dbname = 'sistemDB'; //bdd
+			$username ='root'; //usuario
+			$passwd = 'Rangermiperro2.'; //contra
 
 
 
@@ -25,6 +25,9 @@
 				$conexion = new PDO($server,$username,$passwd);
 				//$conexion = exec("SET CHARACTER SET utf8");
 				$conexion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+				$conexion->exec("SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'");
+				$conexion->exec("SET SESSION sql_mode=''");
 				
 				$mitz="America/Tegucigalpa";
 				$tz = (new DateTime('now', new DateTimeZone($mitz)))->format('P');
