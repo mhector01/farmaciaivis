@@ -1,0 +1,150 @@
+[26-Dec-2024 12:13:31 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[26-Dec-2024 12:13:51 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[03-Jan-2025 18:37:13 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[03-Jan-2025 18:37:13 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[03-Jan-2025 18:37:13 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[03-Jan-2025 18:37:13 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[03-Jan-2025 18:37:13 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[03-Jan-2025 18:37:13 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[03-Jan-2025 18:37:33 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[04-Jan-2025 08:38:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[04-Jan-2025 08:38:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[04-Jan-2025 08:38:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[04-Jan-2025 08:38:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[04-Jan-2025 08:38:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[04-Jan-2025 08:38:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[04-Jan-2025 11:30:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[04-Jan-2025 11:30:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[04-Jan-2025 11:30:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[04-Jan-2025 11:30:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[04-Jan-2025 11:30:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[04-Jan-2025 11:30:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[06-Jan-2025 07:44:12 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[06-Jan-2025 07:44:12 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[06-Jan-2025 07:44:12 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[06-Jan-2025 07:44:12 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[06-Jan-2025 07:44:12 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[06-Jan-2025 07:44:12 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[06-Jan-2025 07:45:55 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[06-Jan-2025 07:46:08 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[06-Jan-2025 07:48:38 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[06-Jan-2025 07:50:31 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[06-Jan-2025 07:50:31 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[06-Jan-2025 07:50:31 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[06-Jan-2025 07:50:31 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[06-Jan-2025 07:50:31 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[06-Jan-2025 07:50:31 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[06-Jan-2025 07:50:37 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[06-Jan-2025 07:53:35 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[06-Jan-2025 07:53:54 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[06-Jan-2025 07:53:54 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[06-Jan-2025 07:53:54 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[06-Jan-2025 07:53:54 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[06-Jan-2025 07:53:54 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[06-Jan-2025 07:53:54 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[09-Jan-2025 12:25:00 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[09-Jan-2025 12:25:00 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[09-Jan-2025 12:25:00 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[09-Jan-2025 12:25:00 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[09-Jan-2025 12:25:00 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[09-Jan-2025 12:25:00 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[10-Jan-2025 22:01:01 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[10-Jan-2025 22:01:01 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[10-Jan-2025 22:01:01 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[10-Jan-2025 22:01:01 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[10-Jan-2025 22:01:01 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[10-Jan-2025 22:01:01 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[13-Jan-2025 09:52:48 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[13-Jan-2025 09:52:48 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[13-Jan-2025 09:52:48 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[13-Jan-2025 09:52:48 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[13-Jan-2025 09:52:48 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[13-Jan-2025 09:52:48 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[13-Jan-2025 09:52:57 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[13-Jan-2025 09:54:21 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[13-Jan-2025 09:56:04 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[13-Jan-2025 09:56:25 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[13-Jan-2025 09:56:25 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[13-Jan-2025 09:56:25 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[13-Jan-2025 09:56:25 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[13-Jan-2025 09:56:25 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[13-Jan-2025 09:56:25 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[13-Jan-2025 09:59:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[13-Jan-2025 09:59:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 340
+[13-Jan-2025 09:59:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[13-Jan-2025 09:59:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[13-Jan-2025 09:59:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 386
+[13-Jan-2025 09:59:03 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 387
+[13-Jan-2025 09:59:12 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[13-Jan-2025 10:00:13 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[13-Jan-2025 10:48:38 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[13-Jan-2025 10:48:38 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[13-Jan-2025 10:48:38 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[13-Jan-2025 11:49:26 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[13-Jan-2025 11:49:26 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[13-Jan-2025 11:49:26 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[13-Jan-2025 16:26:04 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[13-Jan-2025 16:26:04 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[13-Jan-2025 16:26:04 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[15-Jan-2025 13:08:40 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 339
+[15-Jan-2025 13:08:40 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 359
+[15-Jan-2025 13:08:40 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/view/home.vw.php on line 360
+[15-Jan-2025 13:14:44 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[15-Jan-2025 13:14:56 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[15-Jan-2025 13:15:00 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[15-Jan-2025 13:15:12 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[15-Jan-2025 14:05:37 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[15-Jan-2025 14:06:44 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[17-Jan-2025 13:05:48 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[17-Jan-2025 13:06:07 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[17-Jan-2025 13:07:55 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[20-Jan-2025 16:57:03 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[20-Jan-2025 16:57:33 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[20-Jan-2025 16:57:46 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[20-Jan-2025 16:57:58 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[20-Jan-2025 16:58:27 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[30-Jan-2025 12:56:00 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[30-Jan-2025 12:56:22 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[30-Jan-2025 12:56:57 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[30-Jan-2025 12:57:53 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[30-Jan-2025 12:58:35 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[30-Jan-2025 13:00:54 America/Tegucigalpa] PHP Notice:  Undefined variable: empleado in /home/ditechon/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[11-Feb-2025 14:43:57 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[11-Feb-2025 14:52:08 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[21-Feb-2025 19:18:25 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[22-Feb-2025 14:36:45 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[22-Feb-2025 14:36:53 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[22-Feb-2025 14:37:07 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[22-Feb-2025 14:37:16 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[22-Feb-2025 14:38:03 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[22-Feb-2025 14:39:38 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[22-Feb-2025 14:40:20 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[28-Feb-2025 11:35:14 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[28-Feb-2025 11:35:19 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[05-Mar-2025 15:33:43 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[05-Mar-2025 15:35:41 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[05-Mar-2025 15:35:52 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[05-Mar-2025 15:36:32 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[29-Mar-2025 09:06:19 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[26-Apr-2025 14:00:55 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[26-Apr-2025 14:04:58 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[26-Apr-2025 14:06:32 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[26-Apr-2025 14:07:40 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[26-Apr-2025 14:08:53 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[28-Apr-2025 14:45:35 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[28-Apr-2025 22:34:03 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[28-Apr-2025 22:35:25 America/Tegucigalpa] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ditechond2/sistema.ditechonduras.com/view/home.vw.php on line 52
+[28-Apr-2025 22:35:35 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[28-Apr-2025 22:35:46 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[28-Apr-2025 22:36:22 America/Tegucigalpa] PHP Warning:  Undefined variable $empleado in /home/ditechond2/sistema.ditechonduras.com/layout/pos.lyt.php on line 124
+[09-May-2025 18:28:33 America/Tegucigalpa] PHP Warning:  require_once(model/Login_model.php): failed to open stream: No such file or directory in /home/farmaciaivis/public_html/index.php on line 12
+[09-May-2025 18:28:33 America/Tegucigalpa] PHP Fatal error:  require_once(): Failed opening required 'model/Login_model.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/farmaciaivis/public_html/index.php on line 12
+[02-Jan-2026 06:06:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 370
+[02-Jan-2026 06:06:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 371
+[02-Jan-2026 06:06:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 390
+[02-Jan-2026 06:06:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 391
+[02-Jan-2026 06:06:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 417
+[02-Jan-2026 06:06:22 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 418
+[02-Jan-2026 08:31:15 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 370
+[02-Jan-2026 08:31:15 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 390
+[02-Jan-2026 08:31:15 America/Tegucigalpa] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/view/home.vw.php on line 391

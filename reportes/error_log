@@ -1,0 +1,476 @@
+[26-Dec-2024 18:13:51 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Cotizacion.php on line 29
+[26-Dec-2024 18:14:13 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Cotizacion.php on line 29
+[04-Jan-2025 14:38:27 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Cotizacion.php on line 29
+[04-Jan-2025 14:39:09 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Cotizacion.php on line 29
+[06-Jan-2025 13:53:35 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[06-Jan-2025 13:54:06 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 32
+[06-Jan-2025 13:54:06 UTC] PHP Notice:  A non well formed numeric value encountered in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 189
+[13-Jan-2025 16:00:13 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[13-Jan-2025 16:00:20 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 32
+[13-Jan-2025 16:00:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 189
+[13-Jan-2025 16:00:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 189
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16899
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16899
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16902
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 17784
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_images.php on line 318
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16548
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 456
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 467
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 523
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 526
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 546
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 646
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 649
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 659
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 670
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 702
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 716
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 741
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 745
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 786
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 801
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 844
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 871
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 922
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 923
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 941
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1088
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1103
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1183
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1226
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1274
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1340
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1347
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1359
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1470
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1478
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1483
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1488
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1497
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1581
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1632
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1646
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1759
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1760
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1777
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1849
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1852
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1859
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1899
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1921
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1940
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1943
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1950
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2019
+[13-Jan-2025 22:36:46 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2258
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:46 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:57 UTC] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[13-Jan-2025 22:36:57 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16548
+[13-Jan-2025 22:36:57 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:57 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:57 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:57 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:57 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 22:36:57 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16899
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16899
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16902
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 17784
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_images.php on line 318
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf.php on line 16548
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 456
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 467
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 523
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 526
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 546
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 646
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 649
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 659
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 670
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 702
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 716
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 741
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 745
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 786
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 801
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 844
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 871
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 922
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 923
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 941
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1088
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1103
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1183
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1226
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1274
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1340
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1347
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1359
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1470
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1478
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1483
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1488
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1497
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1581
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1632
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1646
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1759
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1760
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1777
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1849
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1852
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1859
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1899
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1921
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1940
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1943
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1950
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2019
+[13-Jan-2025 23:30:37 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2258
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[13-Jan-2025 23:30:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/tcpdf/include/tcpdf_static.php on line 396
+[15-Jan-2025 20:06:44 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[15-Jan-2025 20:07:11 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 32
+[15-Jan-2025 20:07:11 UTC] PHP Notice:  A non well formed numeric value encountered in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 189
+[17-Jan-2025 19:08:16 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[17-Jan-2025 19:08:52 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 32
+[17-Jan-2025 19:08:53 UTC] PHP Notice:  A non well formed numeric value encountered in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 189
+[18-Jan-2025 00:32:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/VentasD_Vigentes_Dia.php on line 23
+[18-Jan-2025 00:32:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/VentasD_Vigentes_Dia.php on line 23
+[18-Jan-2025 00:32:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/VentasD_Vigentes_Dia.php on line 24
+[18-Jan-2025 00:32:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/VentasD_Vigentes_Dia.php on line 24
+[18-Jan-2025 00:32:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/VentasD_Vigentes_Dia.php on line 134
+[18-Jan-2025 00:32:37 UTC] PHP Warning:  date(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/VentasD_Vigentes_Dia.php on line 41
+[18-Jan-2025 00:34:13 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 18
+[18-Jan-2025 00:34:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 33
+[18-Jan-2025 00:34:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 55
+[18-Jan-2025 00:34:13 UTC] PHP Notice:  Undefined variable: tipo_comprobante in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 70
+[18-Jan-2025 00:34:13 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 145
+[18-Jan-2025 00:34:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(1450): FPDF->Error('The document is...')
+#1 /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 827.72...')
+#2 /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php(148): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 271
+[18-Jan-2025 00:34:38 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 18
+[18-Jan-2025 00:34:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 33
+[18-Jan-2025 00:34:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 55
+[18-Jan-2025 00:34:38 UTC] PHP Notice:  Undefined variable: tipo_comprobante in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 70
+[18-Jan-2025 00:34:38 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php on line 145
+[18-Jan-2025 00:34:38 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(1450): FPDF->Error('The document is...')
+#1 /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 827.72...')
+#2 /home/ditechon/sistema.ditechonduras.com/reportes/Corte_Z_Dia.php(148): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/ditechon/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 271
+[20-Jan-2025 22:58:27 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[20-Jan-2025 22:58:44 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 32
+[20-Jan-2025 22:58:44 UTC] PHP Notice:  A non well formed numeric value encountered in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 189
+[30-Jan-2025 19:00:54 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[30-Jan-2025 19:01:05 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 32
+[30-Jan-2025 19:01:06 UTC] PHP Notice:  A non well formed numeric value encountered in /home/ditechon/sistema.ditechonduras.com/reportes/factura.php on line 189
+[03-Feb-2025 05:38:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php on line 27
+[03-Feb-2025 05:38:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(561): FPDF->Error('No font has bee...')
+#1 /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php(461): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#2 {main}
+  thrown in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 271
+[03-Feb-2025 05:38:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php on line 27
+[03-Feb-2025 05:38:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(561): FPDF->Error('No font has bee...')
+#1 /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php(461): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#2 {main}
+  thrown in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 271
+[03-Feb-2025 05:38:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php on line 27
+[03-Feb-2025 05:38:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(561): FPDF->Error('No font has bee...')
+#1 /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php(461): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#2 {main}
+  thrown in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 271
+[03-Feb-2025 05:38:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php on line 27
+[03-Feb-2025 05:38:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php(561): FPDF->Error('No font has bee...')
+#1 /home/ditechond2/sistema.ditechonduras.com/reportes/TicketV.php(461): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#2 {main}
+  thrown in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 271
+[03-Feb-2025 05:38:47 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/factura.php on line 32
+[22-Feb-2025 20:40:20 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[28-Feb-2025 17:35:40 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/Cotizacion.php on line 29
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[28-Feb-2025 17:35:41 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/ditechond2/sistema.ditechonduras.com/reportes/fpdf/fpdf.php on line 1212
+[05-Mar-2025 21:36:32 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[05-Mar-2025 21:36:36 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/factura.php on line 32
+[05-Mar-2025 21:36:36 UTC] PHP Warning:  A non-numeric value encountered in /home/ditechond2/sistema.ditechonduras.com/reportes/factura.php on line 189
+[05-Mar-2025 21:36:36 UTC] PHP Warning:  A non-numeric value encountered in /home/ditechond2/sistema.ditechonduras.com/reportes/factura.php on line 189
+[26-Apr-2025 20:06:32 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/Cotizacion.php on line 29
+[26-Apr-2025 20:08:53 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/Cotizacion.php on line 29
+[29-Apr-2025 04:36:21 UTC] PHP Warning:  DateTime::createFromFormat(): Invalid date.timezone value '&quot;America/Tegucigalpa&quot;;', we selected the timezone 'UTC' for now. in /home/ditechond2/sistema.ditechonduras.com/reportes/pruebaTicket.php on line 33
+[10-May-2025 15:38:17 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16899
+[10-May-2025 15:38:17 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16899
+[10-May-2025 15:38:17 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16902
+[10-May-2025 15:38:17 America/New_York] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 17784
+[10-May-2025 15:38:17 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_images.php on line 318
+[10-May-2025 15:38:17 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 15:38:17 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[10-May-2025 15:38:33 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 15:38:33 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[10-May-2025 15:38:40 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 15:38:40 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[10-May-2025 15:38:53 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 456
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 467
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 523
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 526
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 546
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 646
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 649
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 659
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 670
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 702
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 716
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 741
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 745
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 786
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 801
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 844
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 871
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 922
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 923
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 941
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1088
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1103
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1183
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1226
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1274
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1340
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1347
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1359
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1470
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1478
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1483
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1488
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1497
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1581
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1632
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1646
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1759
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1760
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1777
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1849
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1852
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1859
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1899
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1921
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1940
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1943
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1950
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2019
+[10-May-2025 15:38:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2258
+[10-May-2025 16:51:28 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16899
+[10-May-2025 16:51:28 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16899
+[10-May-2025 16:51:28 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16902
+[10-May-2025 16:51:28 America/New_York] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 17784
+[10-May-2025 16:51:28 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_images.php on line 318
+[10-May-2025 16:51:29 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 456
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 467
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 523
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 526
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 546
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 646
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 649
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 659
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 670
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 702
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 716
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 741
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 745
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 786
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 801
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 844
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 870
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 871
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 922
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 923
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 932
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 941
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1088
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1103
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1127
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1183
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1226
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1243
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1274
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1340
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1347
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1359
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1470
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1478
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1483
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1488
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1496
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1497
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1581
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1632
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1646
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1759
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1760
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1777
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1849
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1852
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1859
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1899
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1921
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1940
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1943
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 1950
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2019
+[10-May-2025 16:51:29 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf_barcodes_1d.php on line 2258
+[10-May-2025 16:51:37 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 16:51:37 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[10-May-2025 16:51:49 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 16:51:49 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[10-May-2025 16:52:01 America/New_York] PHP Warning:  chr() expects parameter 1 to be int, string given in /home/farmaciaivis/public_html/reportes/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-May-2025 16:52:01 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/farmaciaivis/public_html/reportes/tcpdf/tcpdf.php on line 16548
+[14-May-2025 17:49:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/pruebaTicket.php on line 29
+[14-May-2025 17:49:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/farmaciaivis/public_html/reportes/pruebaTicket.php:195
+Stack trace:
+#0 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/pruebaTicket.php on line 195
+[15-May-2025 15:34:46 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: No page has been added yet in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(1448): FPDF->Error('No page has bee...')
+#1 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 1068.6...')
+#2 /home/farmaciaivis/public_html/reportes/pruebaTicket.php(339): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[15-May-2025 15:34:49 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: No page has been added yet in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(1448): FPDF->Error('No page has bee...')
+#1 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 1068.6...')
+#2 /home/farmaciaivis/public_html/reportes/pruebaTicket.php(339): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[02-Jun-2025 08:11:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php on line 36
+[02-Jun-2025 08:11:21 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(1450): FPDF->Error('The document is...')
+#1 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 827.72...')
+#2 /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php(153): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[31-Oct-2025 17:46:49 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php on line 36
+[31-Oct-2025 17:46:49 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(1450): FPDF->Error('The document is...')
+#1 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 827.72...')
+#2 /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php(153): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[31-Oct-2025 17:47:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php on line 36
+[31-Oct-2025 17:47:39 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(1450): FPDF->Error('The document is...')
+#1 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 827.72...')
+#2 /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php(153): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[31-Oct-2025 17:48:07 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php on line 36
+[31-Oct-2025 17:48:07 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(1450): FPDF->Error('The document is...')
+#1 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 827.72...')
+#2 /home/farmaciaivis/public_html/reportes/Corte_Z_Mes.php(153): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[31-Oct-2025 17:48:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/Corte_Z_Dia.php on line 33
+[31-Oct-2025 17:48:22 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(1450): FPDF->Error('The document is...')
+#1 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(567): FPDF->_out('BT 64.63 827.72...')
+#2 /home/farmaciaivis/public_html/reportes/Corte_Z_Dia.php(148): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[17-Jan-2026 01:30:34 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/TicketV.php on line 27
+[17-Jan-2026 01:30:34 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(561): FPDF->Error('No font has bee...')
+#1 /home/farmaciaivis/public_html/reportes/TicketV.php(461): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#2 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[17-Jan-2026 02:14:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/TicketV.php on line 27
+[17-Jan-2026 02:14:39 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(561): FPDF->Error('No font has bee...')
+#1 /home/farmaciaivis/public_html/reportes/TicketV.php(461): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#2 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[17-Jan-2026 02:21:16 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/TicketV.php on line 27
+[17-Jan-2026 02:21:16 America/New_York] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php(561): FPDF->Error('No font has bee...')
+#1 /home/farmaciaivis/public_html/reportes/TicketV.php(461): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#2 {main}
+  thrown in /home/farmaciaivis/public_html/reportes/fpdf/fpdf.php on line 271
+[19-Jan-2026 12:03:16 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/farmaciaivis/public_html/reportes/pruebaTicket.php on line 29
