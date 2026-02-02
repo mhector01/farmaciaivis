@@ -110,8 +110,8 @@ function enviar_frm() {
 
     if (!usuario || !password) {
         swal({
-            title: "Campos vac¨ªos",
-            text: "Debes ingresar usuario y contrase0Š9a",
+            title: "Campos vacï¿½ï¿½os",
+            text: "Debes ingresar usuario y contraseï¿½0ï¿½9a",
             type: "warning",
             confirmButtonColor: "#EF5350"
         });
@@ -145,14 +145,14 @@ function enviar_frm() {
             } else if (data.status === "Bad Pass") {
                 swal({
                     title: "Verifica tus datos!",
-                    text: "Tu usuario o contrase0Š9a son incorrectos",
+                    text: "Tu usuario o contraseï¿½0ï¿½9a son incorrectos",
                     confirmButtonColor: "#EF5350",
                     type: "warning"
                 });
             } else {
                 swal({
                     title: "Error",
-                    text: "Ocurri¨® un error inesperado",
+                    text: "Ocurriï¿½ï¿½ un error inesperado",
                     confirmButtonColor: "#EF5350",
                     type: "error"
                 });
@@ -162,7 +162,7 @@ function enviar_frm() {
         error: function(xhr, status, error) {
             console.error("AJAX Error: ", status, error);
             swal({
-                title: "Error de conexi¨®n",
+                title: "Error de conexiï¿½ï¿½n",
                 text: "No se pudo contactar con el servidor",
                 confirmButtonColor: "#EF5350",
                 type: "error"
@@ -170,4 +170,3 @@ function enviar_frm() {
         }
     });
 }
-
