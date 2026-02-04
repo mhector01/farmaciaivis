@@ -22,7 +22,7 @@
 
 
     //$pdf->setXY(2,$get_YD);
-    $pdf->MultiCell(58, 4.2, 'RTN : 06051972009498'.$nrc, 0,'C',0 ,1);
+    //$pdf->MultiCell(58, 4.2, 'RTN : 06051972009498'.$nrc, 0,'C',0 ,1);
 
     /*INGRESAR EN ESTA LINEA EL TELEFONO DEL TICKET*/
 
