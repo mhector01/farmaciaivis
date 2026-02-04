@@ -10,10 +10,10 @@
 		    
 		   
 			$driver = 'mysql'; //mysql no cambiar
-			$host = 'q00w40ssg40k04s84gkokkkk'; //localhost
+			$host = 'f8skkow4o0cwgwkc4gkokwko'; //localhost
 			$dbname = 'farmaciasistem'; //bdd
-			$username ='root'; //usuario
-			$passwd = 'Rangermiperro2.'; //contra
+			$username ='mysql'; //usuario
+			$passwd = 'ZoYaaQR1BGdn6Dk6FfV18wQd3PjV4BhvmQ1biiwHS6zgch0RUkCgOEApaDr5n41N'; //contra
 
 
 
