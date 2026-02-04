@@ -11,7 +11,7 @@
 		   
 			$driver = 'mysql'; //mysql no cambiar
 			$host = 'q00w40ssg40k04s84gkokkkk'; //localhost
-			$dbname = 'farmaciasistem'; //bdd
+			$dbname = 'farmaciaivis'; //bdd
 			$username ='mysql'; //usuario
 			$passwd = 'Rangermiperro2.'; //contra
 
