@@ -71,7 +71,7 @@
 						<div class="panel panel-body bg-blue-400 has-bg-image">
 							<div class="media no-margin">
 								<div class="media-body">
-									<h3 class="no-margin"><?php echo $moneda.' '.number_format($dinero_caja, 2, '.', ','); ?></h3>
+									<h3 class="no-margin"><?php echo $moneda.' '.number_format($dinero_caja ?? 0, 2, '.', ','); ?></h3>
 									<span class="text-uppercase text-size-mini">EN CAJA </span>
 								</div>
 
